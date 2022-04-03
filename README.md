@@ -1,6 +1,6 @@
 # BADGES
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/723c7590de6449a5b35c8720fd5092f7)](https://app.codacy.com/gh/raagavardhini/Stepin-Employee-Record-System?utm_source=github.com&utm_medium=referral&utm_content=raagavardhini/Stepin-Employee-Record-System&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/723c7590de6449a5b35c8720fd5092f7)](https://app.codacy.com/gh/raagavardhini/Stepin-Employee-Record-System?utm_source=github.com&utm_medium=referral&utm_content=VinayKumar/Stepin-Employee-Record-System&utm_campaign=Badge_Grade_Settings)
 
 ## CODE QUALITY 
 
@@ -12,7 +12,7 @@
 
 ## Git Inspecter
 
-[![CI](https://github.com/raagavardhini/Stepin-Employee-Record-System/actions/workflows/blank.yml/badge.svg)](https://github.com/raagavardhini/Stepin-Employee-Record-System/actions/workflows/blank.yml)
+[![CI](https://github.com/raagavardhini/Stepin-Employee-Record-System/actions/workflows/blank.yml/badge.svg)](https://github.com/VinayKumar/Stepin-Employee-Record-System/actions/workflows/blank.yml)
 
 
 
