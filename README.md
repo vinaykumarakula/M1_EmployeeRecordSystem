@@ -12,7 +12,7 @@
 
 ## Git Inspecter
 
-[![CI](https://github.com/raagavardhini/Stepin-Employee-Record-System/actions/workflows/blank.yml/badge.svg)](https://github.com/VinayKumar/Stepin-Employee-Record-System/actions/workflows/blank.yml)
+[![CI](https://github.com/VinayKumar/Stepin-Employee-Record-System/actions/workflows/blank.yml/badge.svg)](https://github.com/VinayKumar/Stepin-Employee-Record-System/actions/workflows/blank.yml)
 
 
 
